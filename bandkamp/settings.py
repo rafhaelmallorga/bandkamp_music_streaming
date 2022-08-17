@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "musicians",
     "bios",
     "albums",
+    "tags",
 ]
 
 MIDDLEWARE = [
